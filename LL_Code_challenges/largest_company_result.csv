@@ -1,0 +1,51 @@
+Country,Industry,Revenue,Profit,Employees,Headquarters
+Walmart,Retail,"$559,151","$13,600","2,300,000",United States
+State Grid,Electricity,"$386,618","$5,580","896,360",China
+Amazon,"Retail, Information Technology","$386,064","$21,331","1,468,000",United States
+Apple,Electronics,"$365,820","$94,680","154,000",United States
+China National Petroleum,Oil and gas,"$283,958","$4,575","1,242,245",China
+Sinopec Group,Oil and gas,"$283,728","$6,205","553,833",China
+CVS Health,Healthcare,"$268,706","$7,179","256,500",United States
+UnitedHealth,Healthcare,"$257,141","$15,403","330,000",United States
+Toyota,Automotive,"$256,722","$21,180","366,283",Japan
+Volkswagen,Automotive,"$253,965","$10,104","662,575",Germany
+Berkshire Hathaway,Financials,"$254,510","$42,521","360,000",United States
+McKesson,Healthcare,"$238,228","-$4,539","67,500",United States
+China State Construction,Construction,"$234,425","$3,578","356,864",China
+Saudi Aramco,Oil and gas,"$229,766","$49,287","79,800",Saudi Arabia
+Samsung Electronics,Electronics,"$200,734","$22,116","267,937",South Korea
+Ping An Insurance,Financials,"$191,509","$20,739","362,035",China
+AmerisourceBergen,Healthcare,"$189,894","-$3,409","21,500",United States
+BP,Oil and gas,"$183,500","-$20,305","68,100",United Kingdom
+Royal Dutch Shell,Oil and gas,"$183,195","-$21,680","87,000",United Kingdom
+ICBC,Financials,"$182,794","$45,783","439,787",China
+Alphabet,Information technology,"$182,527","$40,269","144,056",United States
+Foxconn,Electronics,"$181,945","$3,457","878,429",Taiwan
+ExxonMobil,Oil and gas,"$181,502","-$22,440","72,000",United States
+Daimler,Automotive,"$175,827","$4,133","288,481",Germany
+China Construction Bank,Financials,"$172,000","$39,283","373,814",China
+AT&T,Telecommunications,"$171,760","-$5,176","230,760",United States
+Microsoft,Information technology,"$168,090","$61,270","181,000",United States
+Costco,Retail,"$166,761","$4,002","214,500",United States
+Cigna,Healthcare,"$160,401","$8,458","72,963",United States
+Agricultural Bank of China,Financials,"$153,885","$31,293","462,592",China
+Cardinal Health,Healthcare,"$152,922","-$3,696","48,000",United States
+Trafigura,Commodities,"$146,994","$1,699","8,619",Singapore
+China Life Insurance,Insurance,"$144,589","$4,648","183,417",China
+Glencore,Commodities,"$142,338","-$1,903","87,822",Switzerland
+China Railway Engineering Corporation,Construction,"$141,384","$1,639","308,483",China
+Walgreens Boots Alliance,Retail,"$139,537",$456,"450,000",United States
+Exor,Holding company,"$136,186",-$34,"263,284",Netherlands
+Allianz,Financials,"$136,173","$7,756","150,269",Germany
+Bank of China,Financials,"$134,046","$27,952","309,084",China
+Kroger,Retail,"$132,498","$2,585","465,000",United States
+Home Depot,Retail,"$132,110","$12,870","504,800",United States
+China Railway Construction,Construction,"$131,992","$1,486","364,632",China
+JPMorgan Chase,Financials,"$129,503","$29,131","260,110",United States
+Huawei,Electronics,"$129,184","$9,362","197,000",China
+Verizon,Telecommunications,"$128,292","$17,801","135,500",United States
+AXA,Financials,"$128,011","$3,605","96,595",France
+Ford,Automotive,"$127,144","-$1,279","186,000",United States
+Honda,Automotive,"$124,241","$6,202","211,374",Japan
+General Motors,Automotive,"$122,485","$6,427","155,000",United States
+Anthem,Healthcare,"$121,867","$4,572","83,400",United States
